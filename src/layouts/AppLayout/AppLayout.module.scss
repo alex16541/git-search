@@ -1,0 +1,11 @@
+.AppLayout {
+    display: grid;
+    grid-template: auto 1fr auto / 1fr;
+    height: 100vh;
+
+}
+
+.footer {
+    background-color: #4F4F4F;
+    height: 32px
+}

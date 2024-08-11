@@ -1,0 +1,30 @@
+.Header {
+    background-color: #00838F;
+    height: 80px;
+    box-shadow: none !important;
+
+    .toolbar {
+        background-color: #00838F;
+        height: 80px;
+    }
+
+    .input {
+        background-color: #fff;
+        max-width: 912px;
+        width: 100%;
+        border-radius: 4px;
+        padding: 9px;
+        height: 42px;
+        margin-right: 8px;
+        overflow: hidden;
+    }
+
+    .search {
+        background-color: #2196F3;
+        color: #fff;
+        border-radius: 4px;
+        height: 42px;
+        font-size: 15px;
+        line-height: 26px;
+    }
+}

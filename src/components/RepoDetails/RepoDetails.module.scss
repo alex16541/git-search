@@ -1,0 +1,39 @@
+.RepoDetails {
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+
+    .name {
+        font-size: 32px;
+        margin: 0 0 16px;
+        display: block;
+        font-weight: 400;
+    }
+
+    .language {
+        background-color: #2196F3;
+        margin-bottom: 16px;
+    }
+
+    .stars {
+        margin-bottom: 16px;
+
+        svg {
+            color: #FFB400;
+            width: 24px;
+            height: 24px;
+        }
+    }
+
+    .tags {
+        margin-bottom: 24px;
+    }
+
+    .description {
+        margin-bottom: 24px;
+    }
+
+    .license {
+        font-weight: bold;
+    }
+}
